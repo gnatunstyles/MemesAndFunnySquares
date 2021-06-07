@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="def_w">100dp</dimen>
+    <dimen name="def_h">120dp</dimen>
+    <dimen name="ran_but_size">50dp</dimen>
+</resources>
